@@ -1,0 +1,12 @@
+clear
+clc
+close all
+load Results_Linear_Classier_Learn_Edit_Cost_Database
+load Results_Linear_Classier_Learn_Edit_Cost_Database_nD
+load Results_Minimisation_Kn_Ke_No_weights
+
+ load Results_Hamming_PALMPRINT
+ load Results_Hamming_LETTERMED
+ load Results_Hamming_LETTERLOW
+ load Results_Hamming_LETTERHIGH
+ load Results_Hamming_ROTATIONZOOM
